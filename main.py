@@ -5,6 +5,7 @@ Do not modify this file.
 
 from pathlib import Path
 import cookie_shop
+#import cookie_shop_extra_credit as cookie_shop  # change the import to the extra credit version
 
 # get data from the CSV file into a list
 filepath = Path(
